@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Divya Ahire
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Business+Insights;Building+Dashboards+%26+Analytics+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Business+Insights;Building+Dashboards+%26+Analytics+Solutions" />
 </p>
 
 <p align="center">
