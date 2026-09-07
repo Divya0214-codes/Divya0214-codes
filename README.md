@@ -23,7 +23,7 @@
 ```python
 class DivyaAhire:
 
-    role = "Data Analyst | Business Analyst"
+    role = "Data Analyst | Power BI Developer"
 
     location = "Maharashtra, India"
 
